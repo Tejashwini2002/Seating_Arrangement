@@ -3,7 +3,7 @@ Problem: Seating Arrangement
 Input1: An integer representing total number of students.
 Input2: An integer array A, representing preferred seats of students.
 Output Specification:
-Print an integer array representing the order in which the seats will get occupied according to their attempts to sit in their preferred seats.
+Return an integer array representing the order in which the seats will get occupied according to their attempts to sit in their preferred seats.
 Example 1:
 input1: 3
 input2: {3,2,2}
