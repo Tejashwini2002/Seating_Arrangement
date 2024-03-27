@@ -8,7 +8,7 @@ Example 1:  <br>
 input1: 3   <br>
 input2: {3,2,2} 
 
-Output: 3,2,1 <br>
+Output: 3 2 1 <br>
 Explanation: Given an array with 3 students and their preferred seats {3,2,2}, we can find the final arrangement in the following way:
 
 Initially, all the seats are empty: {0,0,0}.
