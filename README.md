@@ -1,7 +1,7 @@
 # Seating_Arrangement
-Problem: Seating Arrangement
+Problem: Seating Arrangement <br>
 Input1: An integer representing total number of students.
-Input2: An integer array A, representing preferred seats of students.
+Input2: An integer array A, representing preferred seats of students. <br>
 Output Specification:<br>
 Print an integer array representing the order in which the seats will get occupied according to their attempts to sit in their preferred seats.
 Example 1:  <br>
